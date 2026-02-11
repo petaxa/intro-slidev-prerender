@@ -12,7 +12,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "SlidevにページごとのOGPを設定したい！",
           ogDescription: "いちむら ゆうま",
-          ogImage: "/ogp/1.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/1.png"
         },
       },
     },
@@ -24,7 +24,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "自己紹介 - いちむらゆうま | petaxa",
           ogDescription: "26卒 Web系エンジニア、Vueがすき",
-          ogImage: "/ogp/2.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/2.png"
         },
       },
     },
@@ -36,7 +36,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "SNSでスライドが共有されているとき",
           ogDescription: "おなじOG Imageだと何に言及しているかわかりづらい!",
-          ogImage: "/ogp/3.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/3.png"
         },
       },
     },
@@ -48,7 +48,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "Slidevでは1つのOG Imageしか設定できない",
           ogDescription: "Slidevの制限とその解決策について",
-          ogImage: "/ogp/4.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/4.png"
         },
       },
     },
@@ -60,7 +60,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "slidev-prerender",
           ogDescription: "SlidevにページごとのOGPを設定できるツール",
-          ogImage: "/ogp/5.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/5.png"
         },
       },
     },
@@ -72,7 +72,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "そもそもSlidevとは",
           ogDescription: "Webベースのスライドメーカー",
-          ogImage: "/ogp/6.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/6.png"
         },
       },
     },
@@ -84,7 +84,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "そもそもSlidevとは",
           ogDescription: "Webベースのスライドメーカー、マークダウンベースのテキストでスライドを記述する",
-          ogImage: "/ogp/7.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/7.png"
         },
       },
     },
@@ -96,7 +96,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "OGPとはなにか",
           ogDescription: "Webページの情報を記述するためのデータ形式",
-          ogImage: "/ogp/8.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/8.png"
         },
       },
     },
@@ -108,7 +108,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "どうしてslidev-prerenderが必要なの",
           ogDescription: "slidevはSPA、headタグはすべてのスライドで共通",
-          ogImage: "/ogp/9.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/9.png"
         },
       },
     },
@@ -120,7 +120,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "どうやって解決したの",
           ogDescription: "ページごとにHTMLを作成する",
-          ogImage: "/ogp/10.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/10.png"
         },
       },
     },
@@ -132,7 +132,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "どうやって解決したの",
           ogDescription: "ページの数だけHTMLを生成し、headを上書き。プラグイン機能でHTML自体の書き換えも可能",
-          ogImage: "/ogp/11.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/11.png"
         },
       },
     },
@@ -144,7 +144,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "簡単なハンズオン - configファイルを用意する",
           ogDescription: "slidev-prerender.config.tsの設定方法",
-          ogImage: "/ogp/12.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/12.png"
         },
       },
     },
@@ -156,7 +156,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "簡単なハンズオン - slidevをビルド",
           ogDescription: "pnpm buildでSlidevをビルド",
-          ogImage: "/ogp/13.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/13.png"
         },
       },
     },
@@ -168,7 +168,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "簡単なハンズオン - slidev-prerenderでビルド",
           ogDescription: "pnpm prerenderでビルド実行",
-          ogImage: "/ogp/14.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/14.png"
         },
       },
     },
@@ -180,7 +180,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "簡単なハンズオン - ビルド完了！",
           ogDescription: "プリレンダリング完了",
-          ogImage: "/ogp/15.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/15.png"
         },
       },
     },
@@ -192,7 +192,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "slidev-prerenderについて - ビルドプロセス",
           ogDescription: "Slidevのdistをcopy、sirvでサーブ、playwrightでHTML取得",
-          ogImage: "/ogp/16.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/16.png"
         },
       },
     },
@@ -204,7 +204,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "slidev-prerenderについて - sirv",
           ogDescription: "Viteでも使われている速い静的ファイル配信ミドルウェア",
-          ogImage: "/ogp/17.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/17.png"
         },
       },
     },
@@ -216,7 +216,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "slidev-prerenderについて - unhead",
           ogDescription: "HTMLのheadをJSで管理できるライブラリ",
-          ogImage: "/ogp/18.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/18.png"
         },
       },
     },
@@ -228,7 +228,7 @@ export default defineConfig({
         seoMeta: {
           ogTitle: "ぜひ、ドキュメントを...!",
           ogDescription: "https://petaxa.github.io/slidev-prerender/",
-          ogImage: "/ogp/19.png"
+          ogImage: "https://petaxa.github.io/intro-slidev-prerender/ogp/19.png"
         },
       },
     },
