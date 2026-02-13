@@ -1,6 +1,7 @@
 ---
 # try also 'default' to start simple
 theme: seriph
+colorSchema: dark
 title: SlidevにページごとのOGPを設定したい！
 info: |
   ## Slidev Starter Template
@@ -21,7 +22,7 @@ bgCenter:
   y: 40
 ---
 
-<p class="text-12">SlidevにページごとのOGPを設定したい！</p>
+<p class="text-11">SlidevにページごとのOGPを設定したい！</p>
 
 いちむら ゆうま
 
@@ -63,7 +64,7 @@ bgCenter:
   <img v-click="4" src="/imgs/post3.png" class="w-full" alt="SNSでやきとりさんがスライドの感想をポストしている" />
 </div>
 
-<p v-click="4" class="text-center text-10 mt-4">おなじOG Imageだと何に言及しているかわかりづらい!</p>
+<p v-click="4" class="text-center text-8 mt-4">おなじOG Imageだと何に言及しているかわかりづらい!</p>
 
 ---
 layout: cover
